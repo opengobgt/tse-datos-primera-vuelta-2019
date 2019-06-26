@@ -1,0 +1,41 @@
+{
+  "departamento": 23,
+  "actas": {
+    "presidente": {
+      "tipo_eleccion": 1,
+      "cantidad_papeletas": 61306,
+      "votos": {
+        "validos_acta": 705,
+        "validos": 705,
+        "nulos": 27,
+        "blancos": 2,
+        "invalidos": 1,
+        "total_acta": 734,
+        "total_votos": 734,
+        "acta_cuadra": 109,
+        "impugnaciones": 0,
+        "partidos": {
+          "avanza": 3,
+          "convergencia": 3,
+          "creo": 25,
+          "eg": 27,
+          "fcn_nacion": 19,
+          "libre": 6,
+          "mlp": 235,
+          "pan_podemos": 34,
+          "phg": 84,
+          "ppt": 1,
+          "todos": 12,
+          "une": 33,
+          "unidos": 5,
+          "unionista": 6,
+          "urng_maiz": 11,
+          "vamos": 109,
+          "victoria": 7,
+          "viva": 36,
+          "winaq": 49
+        }
+      }
+    }
+  }
+}

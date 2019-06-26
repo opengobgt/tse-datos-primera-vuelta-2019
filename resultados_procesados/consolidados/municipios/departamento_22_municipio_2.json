@@ -1,0 +1,183 @@
+{
+  "departamento": 22,
+  "municipio": 2,
+  "actas": {
+    "presidente": {
+      "tipo_eleccion": 1,
+      "cantidad_papeletas": 16073,
+      "votos": {
+        "validos_acta": 7948,
+        "validos": 7948,
+        "nulos": 641,
+        "blancos": 1752,
+        "invalidos": 4,
+        "total_acta": 10341,
+        "total_votos": 10341,
+        "acta_cuadra": 39,
+        "impugnaciones": 0,
+        "partidos": {
+          "avanza": 46,
+          "convergencia": 55,
+          "creo": 108,
+          "eg": 113,
+          "fcn_nacion": 426,
+          "libre": 42,
+          "mlp": 309,
+          "pan_podemos": 642,
+          "phg": 1963,
+          "ppt": 46,
+          "todos": 202,
+          "une": 1227,
+          "unidos": 46,
+          "unionista": 147,
+          "urng_maiz": 119,
+          "vamos": 1273,
+          "victoria": 173,
+          "viva": 561,
+          "winaq": 450
+        }
+      }
+    },
+    "diputados_parlacen": {
+      "tipo_eleccion": 5,
+      "cantidad_papeletas": 16036,
+      "votos": {
+        "validos_acta": 5604,
+        "validos": 5604,
+        "nulos": 2490,
+        "blancos": 2245,
+        "invalidos": 4,
+        "total_acta": 10339,
+        "total_votos": 10339,
+        "acta_cuadra": 39,
+        "impugnaciones": 0,
+        "partidos": {
+          "avanza": 112,
+          "bien": 138,
+          "convergencia": 62,
+          "creo": 58,
+          "eg": 91,
+          "fcn_nacion": 622,
+          "fuerza": 49,
+          "libre": 32,
+          "pan": 250,
+          "pc": 1473,
+          "podemos": 30,
+          "semilla": 135,
+          "todos": 80,
+          "ucn": 171,
+          "une": 334,
+          "unidos": 19,
+          "unionista": 85,
+          "urng_maiz": 141,
+          "valor": 794,
+          "vamos": 252,
+          "victoria": 76,
+          "viva": 168,
+          "winaq": 94
+        }
+      }
+    },
+    "diputados_nacionales": {
+      "tipo_eleccion": 2,
+      "cantidad_papeletas": 16047,
+      "votos": {
+        "validos_acta": 6797,
+        "validos": 6797,
+        "nulos": 1504,
+        "blancos": 2039,
+        "invalidos": 3,
+        "total_acta": 10340,
+        "total_votos": 10340,
+        "acta_cuadra": 39,
+        "impugnaciones": 0,
+        "partidos": {
+          "avanza": 550,
+          "bien": 186,
+          "convergencia": 43,
+          "creo": 61,
+          "eg": 151,
+          "fcn_nacion": 605,
+          "fuerza": 49,
+          "libre": 22,
+          "mlp": 71,
+          "pan": 247,
+          "pc": 2151,
+          "phg": 461,
+          "podemos": 67,
+          "ppt": 27,
+          "semilla": 280,
+          "todos": 96,
+          "ucn": 180,
+          "une": 448,
+          "unidos": 55,
+          "unionista": 124,
+          "urng_maiz": 162,
+          "valor": 726,
+          "vamos": 272,
+          "victoria": 76,
+          "viva": 196,
+          "winaq": 103
+        }
+      }
+    },
+    "diputados_distritales": {
+      "tipo_eleccion": 3,
+      "cantidad_papeletas": 16068,
+      "votos": {
+        "validos_acta": 8208,
+        "validos": 8208,
+        "nulos": 777,
+        "blancos": 1355,
+        "invalidos": 4,
+        "total_acta": 10340,
+        "total_votos": 10340,
+        "acta_cuadra": 39,
+        "impugnaciones": 1,
+        "partidos": {
+          "bien": 158,
+          "eg": 261,
+          "fcn_nacion": 736,
+          "fuerza": 147,
+          "libre": 51,
+          "mlp": 46,
+          "pan": 201,
+          "pc": 3554,
+          "phg": 368,
+          "semilla": 418,
+          "todos": 94,
+          "ucn": 131,
+          "une": 416,
+          "unionista": 111,
+          "urng_maiz": 134,
+          "valor": 799,
+          "vamos": 280,
+          "victoria": 77,
+          "viva": 156,
+          "winaq": 70
+        }
+      }
+    },
+    "corporaciones_municipales": {
+      "tipo_eleccion": 4,
+      "cantidad_papeletas": 16100,
+      "votos": {
+        "validos_acta": 9673,
+        "validos": 9673,
+        "nulos": 547,
+        "blancos": 119,
+        "invalidos": 3,
+        "total_acta": 10339,
+        "total_votos": 10339,
+        "acta_cuadra": 39,
+        "impugnaciones": 3,
+        "partidos": {
+          "cociprog": 6141,
+          "fcn_nacion": 1043,
+          "une": 118,
+          "valor": 2371
+        }
+      }
+    }
+  }
+}

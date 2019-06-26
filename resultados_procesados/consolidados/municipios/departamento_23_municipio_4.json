@@ -1,0 +1,42 @@
+{
+  "departamento": 23,
+  "municipio": 4,
+  "actas": {
+    "presidente": {
+      "tipo_eleccion": 1,
+      "cantidad_papeletas": 10575,
+      "votos": {
+        "validos_acta": 119,
+        "validos": 119,
+        "nulos": 1,
+        "blancos": 1,
+        "invalidos": 0,
+        "total_acta": 121,
+        "total_votos": 121,
+        "acta_cuadra": 18,
+        "impugnaciones": 0,
+        "partidos": {
+          "avanza": 0,
+          "convergencia": 0,
+          "creo": 3,
+          "eg": 5,
+          "fcn_nacion": 2,
+          "libre": 0,
+          "mlp": 41,
+          "pan_podemos": 8,
+          "phg": 11,
+          "ppt": 0,
+          "todos": 2,
+          "une": 8,
+          "unidos": 1,
+          "unionista": 2,
+          "urng_maiz": 4,
+          "vamos": 20,
+          "victoria": 2,
+          "viva": 3,
+          "winaq": 7
+        }
+      }
+    }
+  }
+}

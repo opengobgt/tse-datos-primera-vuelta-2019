@@ -1,0 +1,182 @@
+{
+  "departamento": 15,
+  "municipio": 5,
+  "actas": {
+    "presidente": {
+      "tipo_eleccion": 1,
+      "cantidad_papeletas": 9422,
+      "votos": {
+        "validos_acta": 5897,
+        "validos": 5816,
+        "nulos": 180,
+        "blancos": 538,
+        "invalidos": 9,
+        "total_acta": 6609,
+        "total_votos": 6534,
+        "acta_cuadra": 23,
+        "impugnaciones": 1,
+        "partidos": {
+          "avanza": 9,
+          "convergencia": 12,
+          "creo": 20,
+          "eg": 7,
+          "fcn_nacion": 31,
+          "libre": 5,
+          "mlp": 33,
+          "pan_podemos": 338,
+          "phg": 1207,
+          "ppt": 13,
+          "todos": 1100,
+          "une": 909,
+          "unidos": 1672,
+          "unionista": 24,
+          "urng_maiz": 8,
+          "vamos": 234,
+          "victoria": 82,
+          "viva": 73,
+          "winaq": 39
+        }
+      }
+    },
+    "diputados_parlacen": {
+      "tipo_eleccion": 5,
+      "cantidad_papeletas": 9430,
+      "votos": {
+        "validos_acta": 4604,
+        "validos": 4554,
+        "nulos": 810,
+        "blancos": 1243,
+        "invalidos": 67,
+        "total_acta": 6608,
+        "total_votos": 6607,
+        "acta_cuadra": 24,
+        "impugnaciones": 1,
+        "partidos": {
+          "avanza": 35,
+          "bien": 91,
+          "convergencia": 11,
+          "creo": 27,
+          "eg": 7,
+          "fcn_nacion": 40,
+          "fuerza": 7,
+          "libre": 2,
+          "pan": 81,
+          "pc": 19,
+          "podemos": 28,
+          "semilla": 11,
+          "todos": 1526,
+          "ucn": 47,
+          "une": 407,
+          "unidos": 1983,
+          "unionista": 51,
+          "urng_maiz": 12,
+          "valor": 50,
+          "vamos": 62,
+          "victoria": 38,
+          "viva": 32,
+          "winaq": 11
+        }
+      }
+    },
+    "diputados_nacionales": {
+      "tipo_eleccion": 2,
+      "cantidad_papeletas": 9424,
+      "votos": {
+        "validos_acta": 5498,
+        "validos": 5483,
+        "nulos": 413,
+        "blancos": 708,
+        "invalidos": 37,
+        "total_acta": 6607,
+        "total_votos": 6604,
+        "acta_cuadra": 23,
+        "impugnaciones": 1,
+        "partidos": {
+          "avanza": 14,
+          "bien": 74,
+          "convergencia": 15,
+          "creo": 14,
+          "eg": 12,
+          "fcn_nacion": 25,
+          "fuerza": 6,
+          "libre": 2,
+          "mlp": 8,
+          "pan": 67,
+          "pc": 20,
+          "phg": 1094,
+          "podemos": 7,
+          "ppt": 8,
+          "semilla": 13,
+          "todos": 1493,
+          "ucn": 36,
+          "une": 385,
+          "unidos": 1721,
+          "unionista": 39,
+          "urng_maiz": 22,
+          "valor": 35,
+          "vamos": 53,
+          "victoria": 21,
+          "viva": 24,
+          "winaq": 5
+        }
+      }
+    },
+    "diputados_distritales": {
+      "tipo_eleccion": 3,
+      "cantidad_papeletas": 9423,
+      "votos": {
+        "validos_acta": 5766,
+        "validos": 5766,
+        "nulos": 304,
+        "blancos": 537,
+        "invalidos": 24,
+        "total_acta": 6607,
+        "total_votos": 6607,
+        "acta_cuadra": 26,
+        "impugnaciones": 1,
+        "partidos": {
+          "bien": 73,
+          "creo": 10,
+          "fcn_nacion": 38,
+          "mlp": 7,
+          "phg": 1228,
+          "podemos": 21,
+          "semilla": 9,
+          "todos": 1657,
+          "ucn": 26,
+          "une": 425,
+          "unidos": 2132,
+          "unionista": 11,
+          "urng_maiz": 12,
+          "valor": 61,
+          "vamos": 38,
+          "winaq": 18
+        }
+      }
+    },
+    "corporaciones_municipales": {
+      "tipo_eleccion": 4,
+      "cantidad_papeletas": 9375,
+      "votos": {
+        "validos_acta": 6353,
+        "validos": 6353,
+        "nulos": 198,
+        "blancos": 56,
+        "invalidos": 3,
+        "total_acta": 6607,
+        "total_votos": 6607,
+        "acta_cuadra": 26,
+        "impugnaciones": 5,
+        "partidos": {
+          "bien": 40,
+          "fcn_nacion": 22,
+          "phg": 1134,
+          "todos": 2222,
+          "une": 317,
+          "unidos": 2598,
+          "vamos": 20
+        }
+      }
+    }
+  }
+}
